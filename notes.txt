@@ -1,0 +1,59 @@
+en passant
+castling
+can't castle if the blocks king needs to move is attacked by someone
+# king movement in not checked areas
+checks
+illegal moves if checked
+blocking checks
+	- Blocking check is possible only against bishop, rook, or queen checks.
+	- Double check means blocking is impossible—the king must move.
+
+    The ONLY case where capture is possible in double check—when the king itself captures one of the attackers and is no longer under attack
+
+- Knight and pawn checks cannot be blocked, only captured or escaped.
+
+
+Steps to Check if a Piece Can Block a Check
+Identify the Attacking Piece
+
+Find the enemy piece that is checking the king.
+
+Determine the Check Path
+
+If the attack is from a bishop, rook, or queen, their movement follows a straight line.
+
+The squares between the attacking piece and the king form the "attack path".
+
+Find Pieces That Can Move to the Attack Path
+
+Check if any friendly piece (except the king) can move to a square in the attack path.
+
+This piece should have a legal move that places it on one of those squares.
+
+Ensure No Other Rules Prevent the Block
+
+The blocking piece must not be pinned to its own king.
+
+The move should be legal (e.g. a pawn cannot move to an unreachable square)
+
+
+
+checkmate
+	- king in check
+	- king can't be moved
+	- no pieces to block check
+	- no pieces to capture attacking piece
+stalemate
+	- king not in check
+	- no other legal moves
+
+promotion
+
+Once checked -> Calculate all the valid moves and capturable moves -> If there is no move for any piece its checkmate -> If its not a check & still there are no moves for any piece then its a stalemate
+
+If checked -> store all the checking paths of checking pieces in their respective classes -> Filter valid moves with the help of this checking path of the checking pieces
+
+Remember:
+	Blocking check is possible only against bishop, rook, or queen checks.
+	Double check means blocking is impossible—the king must move.
+	a piece can only block check if its not already pinned

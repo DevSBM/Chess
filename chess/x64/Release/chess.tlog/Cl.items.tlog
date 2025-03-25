@@ -1,0 +1,10 @@
+D:\Academic\Codes\CPP\chess\main.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\main.obj
+D:\Academic\Codes\CPP\chess\src\Arrow.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Arrow.obj
+D:\Academic\Codes\CPP\chess\src\Game.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Game.obj
+D:\Academic\Codes\CPP\chess\src\piece\Bishop.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Bishop.obj
+D:\Academic\Codes\CPP\chess\src\piece\King.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\King.obj
+D:\Academic\Codes\CPP\chess\src\piece\Knight.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Knight.obj
+D:\Academic\Codes\CPP\chess\src\piece\Pawn.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Pawn.obj
+D:\Academic\Codes\CPP\chess\src\piece\Piece.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Piece.obj
+D:\Academic\Codes\CPP\chess\src\piece\Queen.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Queen.obj
+D:\Academic\Codes\CPP\chess\src\piece\Rook.cpp;D:\Academic\Codes\CPP\chess\chess\x64\Release\Rook.obj

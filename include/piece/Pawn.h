@@ -1,0 +1,11 @@
+#pragma once
+#include "Piece.h"
+#include <set>
+
+class Pawn:public Piece {
+public:
+	Pawn(int row, int col, bool pieceColor, std::string imageLoc, PieceType type);
+	void storeValidMoves() override;
+	void addToCurrentAttackedBlocks(std::set<std::pair<int, int>>& attackedBlocks) override;
+
+};

@@ -1,0 +1,29 @@
+﻿  Game.cpp
+D:\Academic\Codes\CPP\chess\include\piece\Piece.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/Game.cpp')
+  
+D:\Academic\Codes\CPP\chess\src\Game.cpp(46,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(50,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(131,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(168,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(168,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(191,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(191,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(198,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(198,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(213,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(213,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(219,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(219,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(285,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(415,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(416,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(417,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(417,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(422,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(423,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(424,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Academic\Codes\CPP\chess\src\Game.cpp(424,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  chess.vcxproj -> D:\Academic\Codes\CPP\chess\x64\Debug\chess.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
